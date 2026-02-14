@@ -1,4 +1,4 @@
-full_hash=6b3863e77b57013b340ea50dfdae9bbb4a79deb4
-short_hash=6b3863e
-message=修正配置显示
-date=2026-02-11 21:41:29 +0800
+full_hash=9fc368940e1f24c73b4cd23b131d1f81bf8cfcc5
+short_hash=9fc3689
+message=Update Dockerfile
+date=2026-02-14 16:37:28 +0800
